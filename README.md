@@ -14,25 +14,25 @@ The primary objective of this project is to use machine learning models to analy
 
 
 ## Results
-<u>Summary of all machine learning tools:</u>
+**Summary of all machine learning tools**:
 ![This is an image](https://github.com/Jahill17/Credit_Risk_Analysis/blob/main/Screenshots/ML_Summary_Results.png)
 
-Naive Random Oversmpling Results:
+**Naive Random Oversmpling Results**:
 ![This is an image](https://github.com/Jahill17/Credit_Risk_Analysis/blob/main/Screenshots/Credit_risk_resampling-RandomOversampling.png)
 
-SMOTE Oversampling Results:
+**SMOTE Oversampling Results**:
 ![This is an image](https://github.com/Jahill17/Credit_Risk_Analysis/blob/main/Screenshots/Credit_risk_resampling-SMOTEOversampling.png)
 
-Undersampling Results:
+**Undersampling Results**:
 ![This is an image](https://github.com/Jahill17/Credit_Risk_Analysis/blob/main/Screenshots/Credit_risk_resampling-Undersampling.png)
 
-SMOTEENN Combination Sampling Results:
+**SMOTEENN Combination Sampling Results**:
 ![This is an image](https://github.com/Jahill17/Credit_Risk_Analysis/blob/main/Screenshots/Credit_risk_resampling-CombinationOverUnderSampling.png)
 
-Balanced Random Forest Classifier Results:
+**Balanced Random Forest Classifier Results**:
 ![This is an image](https://github.com/Jahill17/Credit_Risk_Analysis/blob/main/Screenshots/Credit_risk_ensemble-BalancedRandomForest.png)
 
-Easy Ensemble AdaBost Classifier Results:
+**Easy Ensemble AdaBost Classifier Results**:
 ![This is an image](https://github.com/Jahill17/Credit_Risk_Analysis/blob/main/Screenshots/Credit_risk_ensemble-EasyEnsembleAdaBoost.png)
 
 ## Summary
