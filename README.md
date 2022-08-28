@@ -14,6 +14,8 @@ The primary objective of this project is to use machine learning models to analy
 
 
 ## Results
+Summary of all machine learning tools:
+![This is an image](https://github.com/Jahill17/Credit_Risk_Analysis/blob/main/Screenshots/ML_Summary_Results.png)
 
 Naive Random Oversmpling Results:
 ![This is an image](https://github.com/Jahill17/Credit_Risk_Analysis/blob/main/Screenshots/Credit_risk_resampling-RandomOversampling.png)
@@ -28,14 +30,15 @@ SMOTEENN Combination Sampling Results:
 ![This is an image](https://github.com/Jahill17/Credit_Risk_Analysis/blob/main/Screenshots/Credit_risk_resampling-CombinationOverUnderSampling.png)
 
 Balanced Random Forest Classifier Results:
+![This is an image](https://github.com/Jahill17/Credit_Risk_Analysis/blob/main/Screenshots/Credit_risk_ensemble-BalancedRandomForest.png)
 
 Easy Ensemble AdaBost Classifier Results:
-
+![This is an image](https://github.com/Jahill17/Credit_Risk_Analysis/blob/main/Screenshots/Credit_risk_ensemble-EasyEnsembleAdaBoost.png)
 
 ## Summary
 Generally sensitivity is more important than precision when it comes to analyzing risk and default rates for prospective loan candidates.  Sensitivity is the percentage of true positives, whereas precision is the meausre of how reliable a positive classification is.  A high sensitivity means that given percentage of individuals will actually test positive.  A low precision is indicative of a large number of false positives, inversely a high precision is indicative of a small number of false positives. Sensitivity helps rule out individuals when the candidate result is bad (negative) for the prospective candidate.  With the above information in mind, precision is not as important as long as the potential defaults are appropriately flagged.
 
-... algorithms had fairly low precision rate for high risk individuals.  The highest precision rate is the...  This implies that of all the customers marked as high risk, approximately... were actually high risk.
+All of the algorithms had fairly low precision rate for high risk individuals.  The highest precision rate is the...  This implies that of all the customers marked as high risk, approximately... were actually high risk.
 
 The algorithm with the highest sensitivithy is the... The model implies that... of the time the high risk individuals are appropriately marked as high risk individuals. The...model had the next highest sensitivity at...
 
