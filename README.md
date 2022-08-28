@@ -14,7 +14,7 @@ The primary objective of this project is to use machine learning models to analy
 
 
 ## Results
-Summary of all machine learning tools:
+<u>Summary of all machine learning tools:</u>
 ![This is an image](https://github.com/Jahill17/Credit_Risk_Analysis/blob/main/Screenshots/ML_Summary_Results.png)
 
 Naive Random Oversmpling Results:
